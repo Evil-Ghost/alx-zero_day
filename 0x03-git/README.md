@@ -1,9 +1,8 @@
-# ALX README TEMPLATE SIIMPLIFIED(Replace this with title of the project)
+# 0x03. Git
 
 <!-- Remove this line if you want Table of contents
 ## Table of contents
 
- 
 - [Overview](#overview)
   - [Completed tasks](#completed-tasks)
   - [Links to task files](#links-to-task-files)
@@ -24,38 +23,60 @@ remove this line if you removed the one above -->
 ### Completed tasks
 
 - [x] task 0
-- [ ] task 1
+- [x] task 1
+- [x] task 2
+- [x] task 3
+- [x] task 4
+- [ ] task 5
+- [ ] task 6
 
 ### Links to task files
 
 - **Mandatory tasks**
   - [Task 0][Task 0]
+  - [Task 1][Task 1]
+  - [Task 2][Task 2]
+  - [Task 3][Task 3]
+  - [Task 4][Task 4]
 
 - **Advanced tasks**
-  - [Task 8][Task 8]
-
-#### Links to other files
-  - [Header file][Header file]
-
+  - [Task 5][Task 5]
+  - [Task 6][Task 6]
 
 [Task 0]: ./replace-this-with-file-name
-[Task 8]: ./replace-this-with-file-name
-[Header file]: ./replace-this-with-file-name
+[Task 1]: ./replace-this-with-file-name
+[Task 2]: ./replace-this-with-file-name
+[Task 3]: ./replace-this-with-file-name
+[Task 4]: ./replace-this-with-file-name
+[Task 5]: ./replace-this-with-file-name
+[Task 6]: ./replace-this-with-file-name
 
 ## Mandatory tasks
 
 ### Task 0
 
 
+### Task 1
+
+
+### Task 2
+
+
+### Task 3
+
+
+### Task 4
+
+
 ## Advanced tasks
 
-### Task 8
+### Task 5
+
+
+### Task 6
 
 
 ## My process
-
-### Built with
-
 
 ### What I learned
 
@@ -63,7 +84,7 @@ remove this line if you removed the one above -->
 ## Author
 
 - ALX - [ALX Africa](https://www.alxafrica.com)
-- Twitter - [_@yourusername_](https://twitter.com/yourusername)
+- Twitter - [@Evil\_Ghost\_\_](https://www.twitter.com/evil_ghost__)
 
 ## Acknowledgements
 
